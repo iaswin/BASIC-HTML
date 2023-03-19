@@ -1,0 +1,13 @@
+table{
+    border: red;
+    border-collapse: collapse;
+    background-color: royalblue;
+}
+th,td{
+    text-align: center;
+    padding:10px ;
+
+}
+th{
+    background-color: aliceblue;
+}
